@@ -1,0 +1,3 @@
+./bd 4
+
+Total arrived packets 8 , Total dropped packets 4 , Total transmitted packets 4, Total value packets 22
